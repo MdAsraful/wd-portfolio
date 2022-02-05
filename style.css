@@ -1,0 +1,16 @@
+body{
+
+    font-family: 'Pacifico', cursive;
+}
+.name-highlight{
+    color: orange;
+}
+.half-wide{
+    width: 48%;
+    float: left;
+    margin left: 5%;   
+    padding left: 20%;
+}
+.half-wide img{
+    width: 100%;
+}
